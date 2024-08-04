@@ -3,6 +3,7 @@
 Project Type: Time Series Forecasting
 
 Project Summary:
+
 Developed a time series forecasting model to predict quarterly subscription growth for Netflix. This project involved the use of various data preprocessing techniques, exploratory data analysis, and ARIMA modeling to generate accurate forecasts. The main objective was to enable Netflix to optimize resource planning and strategic decision-making based on predicted subscription trends.
 
 Key Steps:
